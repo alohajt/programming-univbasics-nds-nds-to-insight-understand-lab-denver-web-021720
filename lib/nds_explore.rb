@@ -11,8 +11,8 @@ end
 def print_first_directors_movie_titles
 end
 
-
 require 'pp'
+
 pp directors_database
 
 vm = directors_database
