@@ -17,7 +17,7 @@ def print_first_directors_movie_titles
     puts "#{vm[0][1][i][0]}\n" 
     i += 1
   end
-nil
+
 end
 
 
